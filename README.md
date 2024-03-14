@@ -5,16 +5,16 @@ As a seasoned Pokémon trainer drowning in bills, you're no longer just playing 
 ## Screenshots
 <details>
   <summary>Gameplay screenshots</summary>
-    <img src="pkm_master/data/gameplay_01.png" width="614.4" height="405.1"/>
-    <img src="pkm_master/data/gameplay_02.png" width="614.4" height="405.1"/>
+    <img src="pkm_master_v1_0/data/gameplay_01.png" width="614.4" height="405.1"/>
+    <img src="pkm_master_v1_0/data/gameplay_02.png" width="614.4" height="405.1"/>
 </details>
 <details>
   <summary>Winner splash</summary>
-    <img src="pkm_master/data/win_screen.png" width="614.4" height="384"/>
+    <img src="pkm_master_v1_0/data/win_screen.png" width="614.4" height="384"/>
 </details>
 <details>
   <summary>Loser splash</summary>
-    <img src="pkm_master/data/lose_screen.png" width="614.4" height="384"/>
+    <img src="pkm_master_v1_0/data/lose_screen.png" width="614.4" height="384"/>
 </details>
 
 ## Features
