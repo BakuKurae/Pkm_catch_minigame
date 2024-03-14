@@ -28,7 +28,7 @@ As a seasoned Pokémon trainer drowning in bills, you're no longer just playing 
 - Achievements (The achievements will be display -if you have earned one- when you win the game)
 - Auto save (create a save file to store the earned achivements)
 
-## How to play
+## How to install
 - Download [Processing!](https://processing.org/)
 - Download the files from this repo
 - Run Processing app
